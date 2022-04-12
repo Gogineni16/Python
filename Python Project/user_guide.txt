@@ -1,0 +1,9 @@
+1. First step of the execution is to run the server.py file and then connecting it to the client.py.
+
+2. The connection between the server and client specified in the step 1 can be done by running the client.py file.
+
+3. After a successful connection, we then enter the user's id and password. By entering the credentials, it automatically logs in the user.
+
+4.Then we use all the commands to perform various operations like list, create_folder, change_folder, write_file, read_file, and quit.
+
+5. The last step can be done after the quit command. Then running the test.py file can return the results of testing the test cases. If all the test cases comes out to be correct, the client-server program is running successfully.

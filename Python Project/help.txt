@@ -1,0 +1,9 @@
+login <user> <passwd>         log in
+register <user> <passwd>      register
+list                          list -- ls
+change_folder <folder>        change folder -- cd
+read_file <file>              read file -- cat
+write_file <file> <content>   append content in file
+create_folder <folder>        create folder -- mkdir
+quit                          quit
+commands                      help
